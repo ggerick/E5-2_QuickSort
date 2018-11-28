@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/QuickSort/QuickSort/bin/Debug/QuickSort.exe
+/Users/AlanGarcia/Projects/QuickSort/QuickSort/bin/Debug/QuickSort.pdb
+/Users/AlanGarcia/Projects/QuickSort/QuickSort/obj/x86/Debug/QuickSort.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/QuickSort/QuickSort/obj/x86/Debug/QuickSort.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/QuickSort/QuickSort/obj/x86/Debug/QuickSort.exe
+/Users/AlanGarcia/Projects/QuickSort/QuickSort/obj/x86/Debug/QuickSort.pdb
